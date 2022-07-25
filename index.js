@@ -18,7 +18,7 @@ class Deck {
     }
     //  need to create a deck of cards 
     makeDeck(){
-        let suits = ['(♠️ Spade)', '(♣️ Club)', '(♥️ Heart)', '(♦️ Diamond)'];
+        let suits = ['(Spades)', '(Clubs)', '(Hearts)', '(Diamonds)'];
         let ranks =  ['Ace', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', 'King'];
         let values = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13];
 
